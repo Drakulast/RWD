@@ -200,7 +200,7 @@ footer {
 }
 #footerBottom {
     background-color: #12123A;
-    height: 275px;
+    height: 40vh;
     padding: 15px;
 }
 #footerBottom ul li {
